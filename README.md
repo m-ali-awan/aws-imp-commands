@@ -1,0 +1,7 @@
+
+
+> Checking RAM:
+
+```
+free -g
+```
